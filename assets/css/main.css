@@ -100,12 +100,12 @@ input, select, textarea {
 		body {
 			background-color:#000000;
 			text-align: center;
-			color:#fff;
+			color:#000000;
 			padding-top:10em;
 			}
 			
 			* { color:#fff; text-decoration: none;}
-			
+
 	body, input, textarea, select {
 		font-family: 'Open Sans', sans-serif;
 		line-height: 1.85em;
