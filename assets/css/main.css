@@ -104,6 +104,14 @@ input, select, textarea {
 		font-weight: 300;
 		font-size: 13pt;
 	}
+	body {
+		background-color:#ce3635;
+		text-align: center;
+		color:#fff;
+		padding-top:10em;
+	  }
+	  
+	  * { color:#fff; text-decoration: none;}
 
 	a {
 		-moz-transition: color .2s ease-in-out;
