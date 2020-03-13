@@ -104,7 +104,7 @@ input, select, textarea {
 			padding-top:10em;
 			}
 			
-			* { color:#fff; text-decoration: none;}
+			* { color:#000000; text-decoration: none;}
 
 	body, input, textarea, select {
 		font-family: 'Open Sans', sans-serif;
